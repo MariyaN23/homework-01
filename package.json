@@ -2,7 +2,7 @@
   "name": "pre-homeworks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/MariyaN23/homework-01.git",
+  "homepage": "https://mariyan23.github.io/homework-01",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
